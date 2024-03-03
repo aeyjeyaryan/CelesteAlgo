@@ -11,7 +11,7 @@ Clear explanations: Each resource will include code examples, explanations, and 
 Open format: Feel free to fork, clone, and contribute to this repository! Your feedback and suggestions are highly valued.
 Current focus:
 
-I'm currently focusing on mastering the core aspects of Python, with emphasis on data structures, algorithms, and object-oriented programming. As I progress, I'll dive deeper into libraries like NumPy, Pandas, Matplotlib, and Scikit-learn, laying the foundation for future AI/ML exploration.
+I'm currently focusing on mastering the core aspects of Python, with emphasis on data structures, algorithms, and object-oriented programming. As I progress, I'll dive deeper into libraries like NumPy, Pandas, Matplotlib, and Scikit-learn, laying the foundation for future AI/ML explorations.
 
 Roadmap:
 
