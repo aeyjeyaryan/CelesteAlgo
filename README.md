@@ -29,7 +29,7 @@ My journey is just beginning, and I'm excited to share it with you. Check back o
 Additional notes:
 
 You can use the "Issues" tab to report any problems or suggest improvements.
-Feel free to connect with me on my social media platforms (links can be added here).
+Feel free to connect with me on my social media platforms.
 Consider adding a license to your repository if you plan to contribute code publicly.
 I hope you find this repository helpful and engaging!
 
